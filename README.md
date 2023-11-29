@@ -1,0 +1,1 @@
+# Firefox Version class, WIP

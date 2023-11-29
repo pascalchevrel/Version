@@ -1,0 +1,16 @@
+{
+    "require-dev": {
+        "pestphp/pest": "^2.26"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/",
+            "Firefox\\": "src/pchevrel/Firefox"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
